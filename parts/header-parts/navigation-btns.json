@@ -1,0 +1,18 @@
+[
+  {
+    "path": "../index.php",
+    "name": "Home"
+  },
+  {
+    "path": "../category.html",
+    "name": "Category"
+  },
+  {
+    "path": "../listing.html",
+    "name": "Listings"
+  },
+  {
+    "path": "../contact.html",
+    "name": "Contact Us"
+  }
+]
